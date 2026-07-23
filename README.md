@@ -12,8 +12,7 @@ The repository is organized into two primary categories to cover the full produc
 
 ### 🌐 Web Automation
 Tools designed to streamline content retrieval and archiving from various manga hosting platforms.
-
-![Status](https://img.shields.io/badge/Status-Under_Construction-yellow)
+*   **[MangaTV Downloader](./Web%20Scripts/MangaTV%20Downloader/)**: Batch chapter downloader with anti-bot evasion and server failover for the website **MangaTV**.
 
 ### 🎨 Image Processing
 Scripts and actions to accelerate cleaning, redrawing, and typesetting workflows.
